@@ -1,4 +1,4 @@
-# AUTOMATED CPU renting service using wax powerup WAXP.RENT
+![image](https://github.com/user-attachments/assets/9806eb6a-a87a-4b24-ae09-a6627bc9be75)# AUTOMATED CPU renting service using wax powerup WAXP.RENT
 
 ![LOGO](https://github.com/user-attachments/assets/eda025f1-0f82-473e-9bd6-ca95929ffe67)
 
@@ -63,5 +63,17 @@ Additional Costs
 **Total Cost: $4100**
 
 **Full-time Engineers (FTE):** 2, working 6-8 hrs daily
+
 **Total Time to Completion:** ~1 months
+
 **Estimated Date of Delivery:** AUG 25th, 2024
+
+# ESTIMATED REVENUE OF DIFFERENT RENTING SERVICE BASED ON THE FACT OF JUST 50% UTILIZATION OF THEIR OVERALL FUNDS
+
+By using our method we estimate a increasing in WAXP buring as when WAXP POWERUP is easily accessible to everyone most of the revenue from the CPU renting services will Flow Towards the Powerup model! Along side we allow users to stake for longer time period using our smart contract 
+
+![image](https://github.com/user-attachments/assets/9a510a6d-74c4-413c-9d88-ecbe2b1e86ad)
+![image](https://github.com/user-attachments/assets/ebb5b64a-c61f-4d12-8a09-3ea9624ab813)
+
+
+
