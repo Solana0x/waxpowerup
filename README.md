@@ -1,4 +1,5 @@
 # AUTOMATED CPU renting service using wax powerup WAXP.RENT
 
-![CPU RENTAL](https://github.com/user-attachments/assets/5d254cae-b4bb-4a8b-a90a-325bdd0fe193)
+![LOGO](https://github.com/user-attachments/assets/eda025f1-0f82-473e-9bd6-ca95929ffe67)
+
 
